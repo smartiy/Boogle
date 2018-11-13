@@ -1,0 +1,197 @@
+.header {
+  font-family: "Arial";
+  font-size: 13px;
+  text-align: right;
+  word-spacing: 20px;
+  padding-top: 10px;
+  padding-right: 18px;
+}
+
+.Bmail:hover {
+  text-decoration: underline;
+}
+
+.Slike:hover {
+  text-decoration: underline;
+}
+
+.Prijava {
+  background-color: #4885ed; /*Modra*/
+  border: none;
+  font-family: "Arial";
+  font-weight: bold;
+  color: white;
+  padding: 7px 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
+
+.search {
+  margin-top: 140px;
+  text-align: center;
+  /*border: 2px solid red;*/
+  width: 1000px;
+  height: 300px;
+  font-family: "Arial";
+  text-align: center;
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blue {
+  font-size: 85px;
+  color: #4885ed
+}
+
+.red {
+  margin-left: -22px;
+  color: #db3236
+}
+
+.yellow {
+  margin-left: -22px;
+  color: #f4c20d
+}
+
+.blue1 {
+  margin-left: -22px;
+  color: #4885ed
+}
+
+.green {
+  margin-left: -22px;
+  color: #3cba54
+}
+
+.red1 {
+  position: absolute;
+  transform: rotate(-20deg);
+  margin-left: -2px;
+  margin-top: 3px;
+  color: #db3236;
+}
+
+
+input {
+  position: relative;
+  top: -20px;
+  border: none;
+  padding: 10px;
+  margin-left: 40px;
+  height: 20px;
+  width: 570px;
+  border: 1px solid #dbdbdb;
+  border-bottom: 2px solid;
+  border-bottom-color: #cccccc;
+  outline:none;
+}
+
+input:hover{
+    border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9;
+}
+
+.Iskanje {
+  position: relative;
+  top: -40px;
+  margin-left: -13px;
+  background-color: #edf2f0;
+  border: none;
+  padding: 9px 15px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 13px;
+  color: #798787;
+  text-align: center;
+}
+
+.Klik {
+  position: relative;
+  top: -40px;
+  margin-left: -13px;
+  background-color: #edf2f0;
+  border: none;
+  padding: 9px 15px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 13px;
+  color: #798787;
+  text-align: center;
+}
+
+
+.upfooter {
+  position: fixed;
+  background-color: #f2f4f4;/*#e6edea;*/
+  height: 30px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
+  bottom: 40px;
+  border-top: 1px solid #d6dbd9;
+  border-bottom: 1px solid #d6dbd9;
+  font-family: "Arial";
+  font-size: 15px;
+  color: #7c8482;
+  text-align: left;
+  padding-top: 13px;
+  padding-left: 26px;
+}
+
+.upfooter:hover {
+  text-decoration: underline;
+}
+.footerleft {
+  position: fixed;
+  background-color: #f2f4f4;
+  height: 30px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  font-family: "Arial";
+  text-align: left;
+  font-size: 13px;
+  color: #5d6362;
+  padding-top: 10px;
+  padding-left: 26px;
+  word-spacing: 30px;
+}
+
+.Oglaševanje:hover {
+  text-decoration: underline;
+}
+
+.Posel:hover {
+  text-decoration: underline;
+}
+
+.Predstavitev:hover {
+  text-decoration: underline;
+}
+
+.footerright {
+  display:inline;
+  position: absolute;
+  right: 50px;
+  font-family: "Arial";
+  text-align: right;
+  font-size: 13px;
+  color: #5d6362;
+}
+
+.Zasebnost:hover {
+  text-decoration: underline;
+}
+
+.Pogoji:hover {
+  text-decoration: underline;
+}
+
+.Nastavitve:hover {
+  text-decoration: underline;
+}
+
+/*<span style="float:right;">Zasebnost Pogoji Nastavitve</span>*/
